@@ -10,7 +10,7 @@ import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
 /**
- * @author GaoHao
+ * @author Keelahselai
  * @date 2021/05/06
  * description 第三方数据服务
  */

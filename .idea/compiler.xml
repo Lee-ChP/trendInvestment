@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="third-part-index-data-project" />
         <module name="eureka-server" />
+        <module name="index-collection-store-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -18,6 +19,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="eureka-server" options="-parameters" />
+      <module name="index-collection-store-service" options="-parameters" />
       <module name="third-part-index-data-project" options="-parameters" />
     </option>
   </component>
